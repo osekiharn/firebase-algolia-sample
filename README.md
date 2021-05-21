@@ -2,7 +2,7 @@
 
 [react-mde](https://github.com/andrerpena/react-mde) で作成/編集したものを [Cloud Firestore](https://firebase.google.com/docs/firestore?hl=ja) と [algolia](https://www.algolia.com/) に保存。
 
-<img width="626" alt="スクリーンショット 2021-05-21 22 28 08" src="https://user-images.githubusercontent.com/11408909/119144796-f8a55900-ba83-11eb-81e1-3910f58a7238.png">
+<img width="685" alt="スクリーンショット 2021-05-21 22 46 54" src="https://user-images.githubusercontent.com/11408909/119147396-83875300-ba86-11eb-9942-857c79a97207.png">
 
 algolia で全文検索
 
